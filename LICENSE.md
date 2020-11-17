@@ -1,5 +1,7 @@
 MIT License
 
+Copyright (c) 2020 Sagar Mattoo
+
 Copyright (c) 2019 Creative Tim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
